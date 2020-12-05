@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.application.casinogamingapp",
+    "sha256_cert_fingerprints":
+    ["EA:CA:69:4C:6B:E3:62:47:79:0C:2B:B6:80:20:91:05:93:83:58:69:85:8E:D9:33:08:E0:51:63:89:29:D8:29"]
+  }
+}]
