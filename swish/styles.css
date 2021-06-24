@@ -1,0 +1,38 @@
+.success-page{
+  max-width:300px;
+  display:block;
+  margin: 0 auto;
+  text-align: center;
+      position: relative;
+    top: 50%;
+    transform: perspective(1px) translateY(50%)
+color:#47c7c5;
+}
+.fail-page{
+  max-width:300px;
+  display:block;
+  margin: 0 auto;
+  text-align: center;
+      position: relative;
+    top: 50%;
+    transform: perspective(1px) translateY(50%)
+  color:#FFE91E4D;
+}
+.cancel-page{
+  max-width:300px;
+  display:block;
+  margin: 0 auto;
+  text-align: center;
+      position: relative;
+    top: 50%;
+    transform: perspective(1px) translateY(50%)
+   color:#FFFFC107;
+}
+h2{
+  
+    margin-top: 25px;
+
+}
+a{
+  text-decoration: none;
+}
